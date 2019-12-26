@@ -1,0 +1,4 @@
+[submodule "submodules/MOBX"]
+	path = submodules/MOBX
+	url = git@github.com:bobbyliu117/MOBX.git
+	branch = master
